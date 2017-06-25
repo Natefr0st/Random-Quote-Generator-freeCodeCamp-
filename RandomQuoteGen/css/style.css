@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  margin-top: 10px;
+  color: #ef9a23;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  width: 33%;
+  margin: 15px 0;
+  
+}
+
+.quotes {
+    width: 33%;
+    color: white; 
+    margin: 0 auto;
+    border: 1px solid white;
+    padding: 20px;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+.quote {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.author {
+    font-style: italic;
+    font-size: 18px;
+}
+
+.btn {
+  margin-top: 15px;
+  text-align: center;
+  background-color: white;
+  color: black;
+  font-size: 14px;
+}
+
+.btn:hover {
+  border: 1px solid white;
+  color: white;
+  background-color: black;
+}
+
+footer {
+  margin-top: 10px;
+  font-size: 11px;
+}
